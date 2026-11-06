@@ -1,0 +1,1 @@
+{"dependencies":{"element-js-sdk":"^3.0.0","ethers":"^5.7.2"},"description":"Personal tooling for a Binance Agentic Wallet (allinrekt.ai) using the Element Market OpenAPI/SDK on BNB Chain","license":"MIT","name":"allinrekt-agent-tools","private":true,"version":"0.1.0"}
